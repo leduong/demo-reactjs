@@ -100,7 +100,7 @@ const HomePage = () => {
                 type="text"
                 id="keyword"
                 name="keyword"
-                placeholder="Enter key for serach..."
+                placeholder="Enter key for search..."
                 onChange={e => {
                   onChange(e.target.value);
                 }}

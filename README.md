@@ -1,9 +1,11 @@
+### Demo Site (https://frozen-dusk-49084.herokuapp.com/)
+
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
-[![NPM downloads][npm-coreui-download]][npm-coreui]  
+[![NPM downloads][npm-coreui-download]][npm-coreui]
 [![@coreui react](https://img.shields.io/badge/@coreui%20-react-lightgrey.svg?style=flat-square)](https://github.com/coreui/react)
 [![npm package][npm-coreui-react-badge]][npm-coreui-react]
-[![NPM downloads][npm-coreui-react-download]][npm-coreui-react]  
+[![NPM downloads][npm-coreui-react-download]][npm-coreui-react]
 [![npm next][npm-next]][npm]
 
 [npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
@@ -113,7 +115,7 @@ CoreUI-React#v3.0.0
 │   └── index.html   #html template
 │
 ├── src/             #project root
-│   ├── assets/  
+│   ├── assets/
 │   ├── containers/  #container source
 │   ├── scss/        #user scss/css source
 │   ├── views/       #views source
@@ -156,4 +158,4 @@ Get updates on CoreUI's development and chat with the project maintainers and co
 
 
 ## Copyright and License
-copyright 2020 creativeLabs Łukasz Holeczek 
+copyright 2020 creativeLabs Łukasz Holeczek
